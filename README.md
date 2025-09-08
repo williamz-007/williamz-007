@@ -17,5 +17,5 @@
 
 ## 🔗 Connect with me
 - [GitHub](https://github.com/williamz-007)  
-- [LinkedIn](https://www.linkedin.com/in/wcelum?trk=contact-info) *(replace with your LinkedIn)*  
-- [Twitter](https://x.com/Williamz_007) *(replace with your Twitter)*  
+- [LinkedIn](https://www.linkedin.com/in/wcelum?trk=contact-info) 
+- [Twitter](https://x.com/Williamz_007)  
