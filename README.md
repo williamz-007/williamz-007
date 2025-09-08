@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Cloud and DevOps Engineering**  
 - 👯 I’m looking to collaborate on **amazing projects**  
 - 🤔 I’m looking for help with things I **do not yet know**  
-- 💬 Ask me about anything — I love learning and sharing  
+- 💬 Ask me about anything **about design, music and tech in general**  
 - 📫 How to reach me: **+2349099617621 (WhatsApp)**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **Life's Good!**  
