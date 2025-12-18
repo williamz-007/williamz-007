@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm William
 
-- 🔭 I’m currently working on becoming a world-class **DevOps Engineer**  
+- 🔭 I’m currently working on becoming a world-class and bad ass **DevOps Engineer**  
 - 🌱 I’m currently learning **Cloud and DevOps Engineering**  
 - 👯 I’m looking to collaborate on **amazing projects**  
 - 🤔 I’m looking for help with things I **do not yet know**  
