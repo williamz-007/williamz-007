@@ -11,7 +11,7 @@
 - 💬 Ask me about anything **about design, music and tech in general**  
 - 📫 How to reach me: **+2349099617621 (WhatsApp)**  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **Life's Good and *do not forget believing in God***  
+- ⚡ Fun fact: **Life's Good and *do not forget believing in God our lord and personal saviour***  
 
 ---
 
