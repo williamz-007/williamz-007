@@ -7,7 +7,10 @@
 1. eating
 1. playing
 1. dancing
-- | -
+First|Second
+-|-
+1|2
+3|4
 ### me | what i love
 Willy | eating and sleeping
 *I love yall*
