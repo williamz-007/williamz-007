@@ -7,12 +7,7 @@
 1. eating
 1. playing
 1. dancing
-First|Second
--|-
-1|2
-3|4
-### me | what i love
-Willy | eating and sleeping
+   
 *I love yall*
 
 - 🔭 I’m currently working on becoming a world-class and bad ass **DevOps Engineer**  
@@ -30,3 +25,13 @@ Willy | eating and sleeping
 - [GitHub](https://github.com/williamz-007)  
 - [LinkedIn](https://www.linkedin.com/in/wcelum?trk=contact-info) 
 - [Twitter](https://x.com/Williamz_007)  
+
+
+
+
+First|Second
+-|-
+1|2
+3|4
+### me | what i love
+Willy | eating and sleeping
