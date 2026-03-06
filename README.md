@@ -7,10 +7,10 @@
 1. eating
 1. playing
 1. dancing
-
+- | -
 ### me | what i love
 Willy | eating and sleeping
-*I love yall
+*I love yall*
 
 - 🔭 I’m currently working on becoming a world-class and bad ass **DevOps Engineer**  
 - 🌱 I’m currently learning **Cloud and DevOps Engineering**  
