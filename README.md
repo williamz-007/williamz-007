@@ -20,6 +20,11 @@
 - [LinkedIn](https://www.linkedin.com/in/wcelum?trk=contact-info) 
 - [Twitter](https://x.com/Williamz_007)  
 
+Me|what I love
+Williams|Singing
+-|- 
+
+>gitI love myself>
 
 
 
