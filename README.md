@@ -20,10 +20,12 @@
 - [LinkedIn](https://www.linkedin.com/in/wcelum?trk=contact-info) 
 - [Twitter](https://x.com/Williamz_007)  
 
-Me|whatIlove
-Williams|Singing 
 
->gitI love myself>
+Williams|Singing 
+I love myself|like mad
+
+
+>gitI love myself
 
 
 
