@@ -25,7 +25,7 @@
 
 
 
-Williams | Singing 
+Williams|Singing
 
 
 >gitI love myself
