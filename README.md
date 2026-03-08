@@ -25,10 +25,13 @@
 
 
 
-| Column 1 | Column 2 |
-|----------|----------|
-| Row 1    | Row 1 data |
-| Row 2    | Row 2 data |
+| Me | What I Like |
+|----|--------------|
+| Monday | Coding |
+| Tuesday | UI/UX Design |
+| Wednesday | Learning React |
+| Thursday | Watching Tech Videos |
+| Friday | Building Projects |
 
 
 >gitI love myself
