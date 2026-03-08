@@ -25,7 +25,10 @@
 
 
 
-Williams|Singing
+| Column 1 | Column 2 |
+|----------|----------|
+| Row 1    | Row 1 data |
+| Row 2    | Row 2 data |
 
 
 >gitI love myself
